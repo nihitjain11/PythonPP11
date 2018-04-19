@@ -7,16 +7,3 @@ a= 5
 print a+10
 print a*2
 print a*2-1
-
-
-enum={ 'folder','down','note'}
-switch(x){
-	case folder:
-		open folder;
-		break;
-	case down:
-		open down;
-		break;
-		
-
-}
